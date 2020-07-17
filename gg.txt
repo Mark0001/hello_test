@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-﻿居居
+居居1
 weqwecvxcv2
-=======
-﻿居居1
-weqwecvxcv
->>>>>>> test rebase
 qweqwe
 123123123
 test2
